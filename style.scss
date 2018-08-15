@@ -198,11 +198,6 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-	
-	@include mobile {
-		font-weight: bold;
-	}
-  	
 }
 
 .site-description {
